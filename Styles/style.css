@@ -779,7 +779,14 @@
     .footer__nav-links {
         margin-bottom: 10px;
     }
+    .cards__img {
+        margin-right: 0;
+    }
+    .cards__title, .cards__link {
+        text-align: center;
+    }
+    .cards__txt {
+        align-items: center;
+    }
 }
 
-@media (max-width: 600px) {
-}
